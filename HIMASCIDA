@@ -73,13 +73,13 @@
   <div class="profile">
     <div class="name">HIMASCIDA</div>
     <div class="bio">Akun Resmi Himpunan Mahasiswa Bahasa Mandarin & Kebudayaan Tiongkok Universitas Darma Persada.</div>
-    <div class="bio-cn">博修达大学-中文系⁣</div>
+    <div class="bio-cn" lang="zh">博修达大学-中文系⁣</div>
   </div>
 
   <div class="links">
-    <a class="link" href="https://unsada.ac.id/" target="_blank">🌐 Universitas Darma Persada</a>
+    <a class="link" href="https://unsada.ac.id/" target="_blank" rel="noopener noreferrer">🌐 Universitas Darma Persada</a>
     <a class="link" href="https://tr.ee/kcoYUdNx_Y" target="_blank">📘 Informasi Jurusan</a>
-    <a class="link" style="https://mandarin.unsada.ac.id/?fbclid=PAQ0xDSwKToV1leHRuA2FlbQIxMQABp2-wShbnNSxQLFGKW7Jv7mK3-iJwKxj9qxJg4X1jmUcXbIf0DCDVt--OmNGb_aem_UNR_S6xAdVWkM67z03FHxg" target="_blank">🏛️ Website Prodi</a>
+    <a class="link" href="https://mandarin.unsada.ac.id/?fbclid=PAQ0xDSwKToV1leHRuA2FlbQIxMQABp2-wShbnNSxQLFGKW7Jv7mK3-iJwKxj9qxJg4X1jmUcXbIf0DCDVt--OmNGb_aem_UNR_S6xAdVWkM67z03FHxg" target="_blank">🏛️ Website Prodi</a>
     <a class="link" href="https://www.instagram.com/bmkt.unsada/" target="_blank">📷 Instagram BMKT</a>
     <a class="link" href="https://www.instagram.com/himascida/" target="_blank">📷 Instagram HIMASCIDA</a>
     <a class="link" href="https://www.tiktok.com/@bambuti_unsada" target="_blank">🎥 TikTok BMKT</a>
